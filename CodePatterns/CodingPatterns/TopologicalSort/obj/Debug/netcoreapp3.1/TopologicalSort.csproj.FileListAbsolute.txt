@@ -1,0 +1,12 @@
+/Users/sasi/GDrive/Algos/C#/CodePatterns/CodingPatterns/TopologicalSort/bin/Debug/netcoreapp3.1/TopologicalSort.deps.json
+/Users/sasi/GDrive/Algos/C#/CodePatterns/CodingPatterns/TopologicalSort/bin/Debug/netcoreapp3.1/TopologicalSort.runtimeconfig.json
+/Users/sasi/GDrive/Algos/C#/CodePatterns/CodingPatterns/TopologicalSort/bin/Debug/netcoreapp3.1/TopologicalSort.runtimeconfig.dev.json
+/Users/sasi/GDrive/Algos/C#/CodePatterns/CodingPatterns/TopologicalSort/bin/Debug/netcoreapp3.1/TopologicalSort.dll
+/Users/sasi/GDrive/Algos/C#/CodePatterns/CodingPatterns/TopologicalSort/bin/Debug/netcoreapp3.1/TopologicalSort.pdb
+/Users/sasi/GDrive/Algos/C#/CodePatterns/CodingPatterns/TopologicalSort/obj/Debug/netcoreapp3.1/TopologicalSort.AssemblyInfoInputs.cache
+/Users/sasi/GDrive/Algos/C#/CodePatterns/CodingPatterns/TopologicalSort/obj/Debug/netcoreapp3.1/TopologicalSort.AssemblyInfo.cs
+/Users/sasi/GDrive/Algos/C#/CodePatterns/CodingPatterns/TopologicalSort/obj/Debug/netcoreapp3.1/TopologicalSort.csproj.CoreCompileInputs.cache
+/Users/sasi/GDrive/Algos/C#/CodePatterns/CodingPatterns/TopologicalSort/obj/Debug/netcoreapp3.1/TopologicalSort.dll
+/Users/sasi/GDrive/Algos/C#/CodePatterns/CodingPatterns/TopologicalSort/obj/Debug/netcoreapp3.1/TopologicalSort.pdb
+/Users/sasi/GDrive/Algos/C#/CodePatterns/CodingPatterns/TopologicalSort/obj/Debug/netcoreapp3.1/TopologicalSort.genruntimeconfig.cache
+/Users/sasi/GDrive/Algos/C#/CodePatterns/CodingPatterns/TopologicalSort/obj/Debug/netcoreapp3.1/TopologicalSort.csprojAssemblyReference.cache

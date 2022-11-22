@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{B9B0204A-191F-430E-A542-BFD3989EBF74}|Default">
+  <MonoDevelop.Ide.ItemProperties.CyclicSort PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.MergeIntervals PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Knapsack/PartitionSet.cs">
+    <Files>
+      <File FileName="Knapsack/Program.cs" Line="1" Column="1" />
+      <File FileName="Knapsack/PartitionSet.cs" Line="71" Column="1" />
+      <File FileName="Knapsack/SubsetSum.cs" Line="8" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CodingPatterns" expanded="True">
+            <Node name="CyclicSort" expanded="True" />
+            <Node name="Dp-Palindrome" expanded="True" />
+            <Node name="Knapsack" expanded="True">
+              <Node name="PartitionSet.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.LinkedList PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Subsets PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TreeDFS PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Knapsack PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.SlidingWindow PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Other PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Heaps PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.BinarySearch PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.TwoPointers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.TopologicalSort PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/sasi/GDrive/Algos/C#/CodePatterns/CodingPatterns/LinkedList/Program.cs" relfile="LinkedList/Program.cs" line="9" column="1" />
+      <Breakpoint file="/Users/sasi/GDrive/Algos/C#/CodePatterns/CodingPatterns/TwoPointers/SortedArraySquares.cs" relfile="TwoPointers/SortedArraySquares.cs" line="38" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

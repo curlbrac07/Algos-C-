@@ -1,0 +1,9 @@
+/Users/sasi/GDrive/Algos/C#/CodePatterns/CodingPatterns/Library/bin/Debug/netcoreapp3.1/Library.deps.json
+/Users/sasi/GDrive/Algos/C#/CodePatterns/CodingPatterns/Library/bin/Debug/netcoreapp3.1/Library.dll
+/Users/sasi/GDrive/Algos/C#/CodePatterns/CodingPatterns/Library/bin/Debug/netcoreapp3.1/Library.pdb
+/Users/sasi/GDrive/Algos/C#/CodePatterns/CodingPatterns/Library/obj/Debug/netcoreapp3.1/Library.AssemblyInfoInputs.cache
+/Users/sasi/GDrive/Algos/C#/CodePatterns/CodingPatterns/Library/obj/Debug/netcoreapp3.1/Library.AssemblyInfo.cs
+/Users/sasi/GDrive/Algos/C#/CodePatterns/CodingPatterns/Library/obj/Debug/netcoreapp3.1/Library.csproj.CoreCompileInputs.cache
+/Users/sasi/GDrive/Algos/C#/CodePatterns/CodingPatterns/Library/obj/Debug/netcoreapp3.1/Library.dll
+/Users/sasi/GDrive/Algos/C#/CodePatterns/CodingPatterns/Library/obj/Debug/netcoreapp3.1/Library.pdb
+/Users/sasi/GDrive/Algos/C#/CodePatterns/CodingPatterns/Library/obj/Debug/netcoreapp3.1/Library.csprojAssemblyReference.cache

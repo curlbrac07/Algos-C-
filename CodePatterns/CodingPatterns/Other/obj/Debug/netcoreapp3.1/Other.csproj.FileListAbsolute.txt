@@ -1,0 +1,11 @@
+/Users/sasi/GDrive/Algos/C#/CodePatterns/CodingPatterns/Other/bin/Debug/netcoreapp3.1/Other.deps.json
+/Users/sasi/GDrive/Algos/C#/CodePatterns/CodingPatterns/Other/bin/Debug/netcoreapp3.1/Other.runtimeconfig.json
+/Users/sasi/GDrive/Algos/C#/CodePatterns/CodingPatterns/Other/bin/Debug/netcoreapp3.1/Other.runtimeconfig.dev.json
+/Users/sasi/GDrive/Algos/C#/CodePatterns/CodingPatterns/Other/bin/Debug/netcoreapp3.1/Other.dll
+/Users/sasi/GDrive/Algos/C#/CodePatterns/CodingPatterns/Other/bin/Debug/netcoreapp3.1/Other.pdb
+/Users/sasi/GDrive/Algos/C#/CodePatterns/CodingPatterns/Other/obj/Debug/netcoreapp3.1/Other.AssemblyInfoInputs.cache
+/Users/sasi/GDrive/Algos/C#/CodePatterns/CodingPatterns/Other/obj/Debug/netcoreapp3.1/Other.AssemblyInfo.cs
+/Users/sasi/GDrive/Algos/C#/CodePatterns/CodingPatterns/Other/obj/Debug/netcoreapp3.1/Other.csproj.CoreCompileInputs.cache
+/Users/sasi/GDrive/Algos/C#/CodePatterns/CodingPatterns/Other/obj/Debug/netcoreapp3.1/Other.dll
+/Users/sasi/GDrive/Algos/C#/CodePatterns/CodingPatterns/Other/obj/Debug/netcoreapp3.1/Other.pdb
+/Users/sasi/GDrive/Algos/C#/CodePatterns/CodingPatterns/Other/obj/Debug/netcoreapp3.1/Other.genruntimeconfig.cache

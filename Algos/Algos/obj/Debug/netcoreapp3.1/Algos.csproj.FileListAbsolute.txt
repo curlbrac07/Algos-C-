@@ -1,0 +1,12 @@
+/Users/ssuryadevara/OneDrive/Algos/C#/Algos/Algos/bin/Debug/netcoreapp3.1/Algos.deps.json
+/Users/ssuryadevara/OneDrive/Algos/C#/Algos/Algos/bin/Debug/netcoreapp3.1/Algos.runtimeconfig.json
+/Users/ssuryadevara/OneDrive/Algos/C#/Algos/Algos/bin/Debug/netcoreapp3.1/Algos.runtimeconfig.dev.json
+/Users/ssuryadevara/OneDrive/Algos/C#/Algos/Algos/bin/Debug/netcoreapp3.1/Algos.dll
+/Users/ssuryadevara/OneDrive/Algos/C#/Algos/Algos/bin/Debug/netcoreapp3.1/Algos.pdb
+/Users/ssuryadevara/OneDrive/Algos/C#/Algos/Algos/obj/Debug/netcoreapp3.1/Algos.csprojAssemblyReference.cache
+/Users/ssuryadevara/OneDrive/Algos/C#/Algos/Algos/obj/Debug/netcoreapp3.1/Algos.AssemblyInfoInputs.cache
+/Users/ssuryadevara/OneDrive/Algos/C#/Algos/Algos/obj/Debug/netcoreapp3.1/Algos.AssemblyInfo.cs
+/Users/ssuryadevara/OneDrive/Algos/C#/Algos/Algos/obj/Debug/netcoreapp3.1/Algos.csproj.CoreCompileInputs.cache
+/Users/ssuryadevara/OneDrive/Algos/C#/Algos/Algos/obj/Debug/netcoreapp3.1/Algos.dll
+/Users/ssuryadevara/OneDrive/Algos/C#/Algos/Algos/obj/Debug/netcoreapp3.1/Algos.pdb
+/Users/ssuryadevara/OneDrive/Algos/C#/Algos/Algos/obj/Debug/netcoreapp3.1/Algos.genruntimeconfig.cache

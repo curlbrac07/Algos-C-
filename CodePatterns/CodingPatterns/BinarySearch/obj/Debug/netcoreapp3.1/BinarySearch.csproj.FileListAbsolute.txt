@@ -1,0 +1,11 @@
+/Users/sasi/GDrive/Algos/C#/CodePatterns/CodingPatterns/BinarySearch/bin/Debug/netcoreapp3.1/BinarySearch.deps.json
+/Users/sasi/GDrive/Algos/C#/CodePatterns/CodingPatterns/BinarySearch/bin/Debug/netcoreapp3.1/BinarySearch.runtimeconfig.json
+/Users/sasi/GDrive/Algos/C#/CodePatterns/CodingPatterns/BinarySearch/bin/Debug/netcoreapp3.1/BinarySearch.runtimeconfig.dev.json
+/Users/sasi/GDrive/Algos/C#/CodePatterns/CodingPatterns/BinarySearch/bin/Debug/netcoreapp3.1/BinarySearch.dll
+/Users/sasi/GDrive/Algos/C#/CodePatterns/CodingPatterns/BinarySearch/bin/Debug/netcoreapp3.1/BinarySearch.pdb
+/Users/sasi/GDrive/Algos/C#/CodePatterns/CodingPatterns/BinarySearch/obj/Debug/netcoreapp3.1/BinarySearch.AssemblyInfoInputs.cache
+/Users/sasi/GDrive/Algos/C#/CodePatterns/CodingPatterns/BinarySearch/obj/Debug/netcoreapp3.1/BinarySearch.AssemblyInfo.cs
+/Users/sasi/GDrive/Algos/C#/CodePatterns/CodingPatterns/BinarySearch/obj/Debug/netcoreapp3.1/BinarySearch.csproj.CoreCompileInputs.cache
+/Users/sasi/GDrive/Algos/C#/CodePatterns/CodingPatterns/BinarySearch/obj/Debug/netcoreapp3.1/BinarySearch.dll
+/Users/sasi/GDrive/Algos/C#/CodePatterns/CodingPatterns/BinarySearch/obj/Debug/netcoreapp3.1/BinarySearch.pdb
+/Users/sasi/GDrive/Algos/C#/CodePatterns/CodingPatterns/BinarySearch/obj/Debug/netcoreapp3.1/BinarySearch.genruntimeconfig.cache

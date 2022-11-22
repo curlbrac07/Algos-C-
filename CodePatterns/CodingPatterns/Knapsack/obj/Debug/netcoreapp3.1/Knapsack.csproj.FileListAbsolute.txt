@@ -1,0 +1,12 @@
+/Users/sasi/GDrive/Algos/C#/CodePatterns/CodingPatterns/Knapsack/bin/Debug/netcoreapp3.1/Knapsack.deps.json
+/Users/sasi/GDrive/Algos/C#/CodePatterns/CodingPatterns/Knapsack/bin/Debug/netcoreapp3.1/Knapsack.runtimeconfig.json
+/Users/sasi/GDrive/Algos/C#/CodePatterns/CodingPatterns/Knapsack/bin/Debug/netcoreapp3.1/Knapsack.runtimeconfig.dev.json
+/Users/sasi/GDrive/Algos/C#/CodePatterns/CodingPatterns/Knapsack/bin/Debug/netcoreapp3.1/Knapsack.dll
+/Users/sasi/GDrive/Algos/C#/CodePatterns/CodingPatterns/Knapsack/bin/Debug/netcoreapp3.1/Knapsack.pdb
+/Users/sasi/GDrive/Algos/C#/CodePatterns/CodingPatterns/Knapsack/obj/Debug/netcoreapp3.1/Knapsack.csprojAssemblyReference.cache
+/Users/sasi/GDrive/Algos/C#/CodePatterns/CodingPatterns/Knapsack/obj/Debug/netcoreapp3.1/Knapsack.AssemblyInfoInputs.cache
+/Users/sasi/GDrive/Algos/C#/CodePatterns/CodingPatterns/Knapsack/obj/Debug/netcoreapp3.1/Knapsack.AssemblyInfo.cs
+/Users/sasi/GDrive/Algos/C#/CodePatterns/CodingPatterns/Knapsack/obj/Debug/netcoreapp3.1/Knapsack.csproj.CoreCompileInputs.cache
+/Users/sasi/GDrive/Algos/C#/CodePatterns/CodingPatterns/Knapsack/obj/Debug/netcoreapp3.1/Knapsack.dll
+/Users/sasi/GDrive/Algos/C#/CodePatterns/CodingPatterns/Knapsack/obj/Debug/netcoreapp3.1/Knapsack.pdb
+/Users/sasi/GDrive/Algos/C#/CodePatterns/CodingPatterns/Knapsack/obj/Debug/netcoreapp3.1/Knapsack.genruntimeconfig.cache

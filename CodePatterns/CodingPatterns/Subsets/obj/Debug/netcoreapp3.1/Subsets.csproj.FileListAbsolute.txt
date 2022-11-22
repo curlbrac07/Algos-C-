@@ -1,0 +1,11 @@
+/Users/sasi/GDrive/Algos/C#/CodePatterns/CodingPatterns/Subsets/bin/Debug/netcoreapp3.1/Subsets.deps.json
+/Users/sasi/GDrive/Algos/C#/CodePatterns/CodingPatterns/Subsets/bin/Debug/netcoreapp3.1/Subsets.runtimeconfig.json
+/Users/sasi/GDrive/Algos/C#/CodePatterns/CodingPatterns/Subsets/bin/Debug/netcoreapp3.1/Subsets.runtimeconfig.dev.json
+/Users/sasi/GDrive/Algos/C#/CodePatterns/CodingPatterns/Subsets/bin/Debug/netcoreapp3.1/Subsets.dll
+/Users/sasi/GDrive/Algos/C#/CodePatterns/CodingPatterns/Subsets/bin/Debug/netcoreapp3.1/Subsets.pdb
+/Users/sasi/GDrive/Algos/C#/CodePatterns/CodingPatterns/Subsets/obj/Debug/netcoreapp3.1/Subsets.AssemblyInfoInputs.cache
+/Users/sasi/GDrive/Algos/C#/CodePatterns/CodingPatterns/Subsets/obj/Debug/netcoreapp3.1/Subsets.AssemblyInfo.cs
+/Users/sasi/GDrive/Algos/C#/CodePatterns/CodingPatterns/Subsets/obj/Debug/netcoreapp3.1/Subsets.csproj.CoreCompileInputs.cache
+/Users/sasi/GDrive/Algos/C#/CodePatterns/CodingPatterns/Subsets/obj/Debug/netcoreapp3.1/Subsets.dll
+/Users/sasi/GDrive/Algos/C#/CodePatterns/CodingPatterns/Subsets/obj/Debug/netcoreapp3.1/Subsets.pdb
+/Users/sasi/GDrive/Algos/C#/CodePatterns/CodingPatterns/Subsets/obj/Debug/netcoreapp3.1/Subsets.genruntimeconfig.cache

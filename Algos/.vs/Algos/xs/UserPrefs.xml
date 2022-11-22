@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{32B7DA7E-61F6-41C0-AE30-92FD61ACC97B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Algos/Greedy/QueueReconstructByHeight.cs">
+    <Files>
+      <File FileName="Algos/Greedy/QueueReconstructByHeight.cs" Line="12" Column="72" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Algos" expanded="True">
+            <Node name="Algos" expanded="True">
+              <Node name="Greedy" expanded="True">
+                <Node name="QueueReconstructByHeight.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Algos PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

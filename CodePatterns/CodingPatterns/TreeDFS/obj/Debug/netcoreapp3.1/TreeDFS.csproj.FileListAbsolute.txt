@@ -1,0 +1,11 @@
+/Users/sasi/GDrive/Algos/C#/CodePatterns/CodingPatterns/TreeDFS/bin/Debug/netcoreapp3.1/TreeDFS.deps.json
+/Users/sasi/GDrive/Algos/C#/CodePatterns/CodingPatterns/TreeDFS/bin/Debug/netcoreapp3.1/TreeDFS.runtimeconfig.json
+/Users/sasi/GDrive/Algos/C#/CodePatterns/CodingPatterns/TreeDFS/bin/Debug/netcoreapp3.1/TreeDFS.runtimeconfig.dev.json
+/Users/sasi/GDrive/Algos/C#/CodePatterns/CodingPatterns/TreeDFS/bin/Debug/netcoreapp3.1/TreeDFS.dll
+/Users/sasi/GDrive/Algos/C#/CodePatterns/CodingPatterns/TreeDFS/bin/Debug/netcoreapp3.1/TreeDFS.pdb
+/Users/sasi/GDrive/Algos/C#/CodePatterns/CodingPatterns/TreeDFS/obj/Debug/netcoreapp3.1/TreeDFS.AssemblyInfoInputs.cache
+/Users/sasi/GDrive/Algos/C#/CodePatterns/CodingPatterns/TreeDFS/obj/Debug/netcoreapp3.1/TreeDFS.AssemblyInfo.cs
+/Users/sasi/GDrive/Algos/C#/CodePatterns/CodingPatterns/TreeDFS/obj/Debug/netcoreapp3.1/TreeDFS.csproj.CoreCompileInputs.cache
+/Users/sasi/GDrive/Algos/C#/CodePatterns/CodingPatterns/TreeDFS/obj/Debug/netcoreapp3.1/TreeDFS.dll
+/Users/sasi/GDrive/Algos/C#/CodePatterns/CodingPatterns/TreeDFS/obj/Debug/netcoreapp3.1/TreeDFS.pdb
+/Users/sasi/GDrive/Algos/C#/CodePatterns/CodingPatterns/TreeDFS/obj/Debug/netcoreapp3.1/TreeDFS.genruntimeconfig.cache
